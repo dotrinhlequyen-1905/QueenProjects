@@ -2,6 +2,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WhileLoop",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.WhileLoop",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Loop",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Loop",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Control",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Control",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Assignment2",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Assignment2",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Aliasing",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Aliasing",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.HelloWorld",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Assignment1",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Assignment1",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Launch App",
             "request": "launch",
             "cwd": "${workspaceFolder}",
