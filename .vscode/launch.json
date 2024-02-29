@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "WhileLoop",
             "request": "launch",
             "mainClass": "com.mycompany.app.WhileLoop",

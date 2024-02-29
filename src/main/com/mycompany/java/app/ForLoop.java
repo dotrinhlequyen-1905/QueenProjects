@@ -2,9 +2,9 @@ package com.mycompany.app;
 
 public class ForLoop {
     
-    public static void main(String[] args) {
+    public  void testLoop() {
         for (int i = 0; i < 5; i++) {
-            System out println("yes");
+            System.out.println("yes");
          }
     }
 }
